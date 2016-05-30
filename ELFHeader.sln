@@ -5,16 +5,38 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELFHeader", "ELFHeader\ELFHeader.csproj", "{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "REG_TEST", "REG_TEST\REG_TEST.vcxproj", "{C43C18B6-9CDD-46FB-B281-3D45B66121DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
 		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Debug|Win32.ActiveCfg = Debug|Any CPU
 		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D91E4E8E-F884-4DF8-B5F5-9D2FBFAF4550}.Release|Win32.ActiveCfg = Release|Any CPU
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Debug|Win32.Build.0 = Debug|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Release|Any CPU.ActiveCfg = Release|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Release|Win32.ActiveCfg = Release|Win32
+		{C43C18B6-9CDD-46FB-B281-3D45B66121DE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

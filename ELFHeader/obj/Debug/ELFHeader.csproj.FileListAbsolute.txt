@@ -1,1 +1,8 @@
 c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\bin\Debug\ELFHeader.exe.config
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\obj\Debug\ELFHeader.csprojResolveAssemblyReference.cache
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\bin\Debug\ELFHeader.exe
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\bin\Debug\ELFHeader.pdb
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\bin\Debug\REG_TEST.dll
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\bin\Debug\REG_TEST.pdb
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\obj\Debug\ELFHeader.exe
+c:\users\s_david\documents\visual studio 2013\Projects\ELFHeader\ELFHeader\obj\Debug\ELFHeader.pdb

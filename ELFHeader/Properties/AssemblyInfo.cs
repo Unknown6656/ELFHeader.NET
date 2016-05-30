@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyProduct("ELFHeader")]
 [assembly: AssemblyCopyright("Copyright © 2016, Unknown6656")]
 [assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("en")]
+[assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(true)]
 [assembly: Guid("b66becef-d7dd-4ade-adc7-1a7e731d1eff")]
